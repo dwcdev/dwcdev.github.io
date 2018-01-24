@@ -1,6 +1,5 @@
 # dwcdev
 
-Application development and cyber-security solutions.
 
 [keybase.io](https://keybase.io/dwcdev)
 
